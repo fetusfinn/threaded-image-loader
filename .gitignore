@@ -1,0 +1,11 @@
+# Build and Release Folders
+Debug/
+GD2P03_Assingment1_Starter/Debug/
+Release/
+GD2P03_Assingment1_Starter/Release/
+x64/
+
+# Other files and folders
+.settings/
+.vs/
+*.pdf
